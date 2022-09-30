@@ -11,8 +11,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Simple order summery component with basic Html and Css.
@@ -23,7 +21,7 @@ You can check out different views in design folder
 
 ### Links
 
-- Live Site URL: [Click to View](https://your-live-site-url.com)
+- Live Site URL: [Click to View](https://gwynbleidd0014.github.io/order-summery-component/)
 
 ## My process
 
